@@ -55,3 +55,13 @@ Para obtener información sobre el componente SQL Server Data Tools (SSDT), cons
 
 Modificar paquetes de idioma
 De forma predeterminada, el instalador coincide con el idioma del sistema operativo cuando se ejecuta por primera vez. Sin embargo, puede cambiar el idioma cuando lo desee. Para hacerlo, elija la pestaña Paquetes de idioma en el instalador de Visual Studio, seleccione el idioma que prefiera y luego siga las instrucciones.
+![image](https://user-images.githubusercontent.com/57409926/110282667-a5ac2180-7fbd-11eb-8e1c-618dd9d2f943.png)
+![image](https://user-images.githubusercontent.com/57409926/110282689-ae045c80-7fbd-11eb-900b-d32af84aa3a6.png)
+
+![image](https://user-images.githubusercontent.com/57409926/110282698-b361a700-7fbd-11eb-8673-d4118711c858.png)
+![image](https://user-images.githubusercontent.com/57409926/110282711-b8bef180-7fbd-11eb-9259-8ff64a270279.png)
+
+![image](https://user-images.githubusercontent.com/57409926/110282726-beb4d280-7fbd-11eb-8a62-6d697205488d.png)
+
+
+
