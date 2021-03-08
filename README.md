@@ -65,3 +65,4 @@ De forma predeterminada, el instalador coincide con el idioma del sistema operat
 
 
 
+https://docs.microsoft.com/en-us/visualstudio/install/modify-visual-studio?view=vs-2019&preserve-view=true#modify-workloads
